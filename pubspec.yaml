@@ -9,6 +9,7 @@ environment:
 dependencies:
   bloc: ^8.1.2
   cached_network_image: ^3.3.0
+  dio: ^5.4.0
   equatable: ^2.0.5
   floor: ^1.4.2
   flutter:
@@ -30,4 +31,4 @@ flutter:
   fonts:
     - family: Baskerville
       fonts:
-        - asset: asset/fonts/Baskerville.ttc
+        - asset: assets/fonts/Baskerville.ttc
